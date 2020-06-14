@@ -1,4 +1,4 @@
-
+# NOTE --> Phone numbers and Emails Are Random, so Please Don't Disturb them :))
 import re
 # TODO: Create a Regex for phone Numbers
 phoneRegex = re.compile(r'\d{11}')
@@ -21,20 +21,20 @@ I have a lil exprience in JavaScript too and also HTML and CSS
 So if u need any help please send me an email: mostafakhoshhal@yahoo.com
 or call me 09121122345
 
-Hello, My name is Mostafa.
-I'm educated in PR I love to coding, ofcourse In Java
+Hello, My name is Sahar.
+I'm educated in Physic I love to coding In Java
 I have a lil exprience in Swift too and also HTML and CSS
-So if u need any help please send me an email: farolmorris@gmail.com
+So if u need any help please send me an email: SaharAlimohammadi@gmail.com
 or call me 09377632357
 
-Hello, My name is Mostafa.
-I'm educated in PR I love to coding, ofcourse In Swift
+Hello, My name is Keivan.
+I'm educated in Mathematic I love to coding In Swift
 I have a lil exprience in PHP too and also HTML and CSS
 So if u need any help please send me an email: keivanmorris@yahoo.com
 or call me 09116533457
 
 Hello, My name is Ali.
-I'm educated in CS I love to coding, ofcourse In PHP
+I'm educated in CS I love to coding In PHP
 I have a lil exprience in Python too and also HTML and CSS
 So if u need any help please send me an email: aliyari@gmail.com
 or call me 09123234334
